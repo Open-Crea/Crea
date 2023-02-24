@@ -1,2 +1,2 @@
 # Data
-Crea open data and open source
+Crea open data
